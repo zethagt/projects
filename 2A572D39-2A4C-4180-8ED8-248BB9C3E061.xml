@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><dte:GTDocumento xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0 GT_Documento-0.2.1.xsd"><dte:SAT ClaseDocumento="dte"><dte:DTE ID="DatosCertificados"><dte:DatosEmision ID="DatosEmision"><dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2024-08-14T15:25:52.202-06:00" Tipo="FACT" /><dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="61" CorreoEmisor="" NITEmisor="321052" NombreComercial="ESTACION DE SERVICIO EL TANQUE" NombreEmisor="UNO GUATEMALA, SOCIEDAD ANONIMA"><dte:DireccionEmisor><dte:Direccion>2A. CALLE 8-80  ZONA 1  </dte:Direccion><dte:CodigoPostal>01000</dte:CodigoPostal><dte:Municipio>HUEHUETENANGO</dte:Municipio><dte:Departamento>HUEHUETENANGO</dte:Departamento><dte:Pais>GT</dte:Pais></dte:DireccionEmisor></dte:Emisor><dte:Receptor CorreoReceptor="" IDReceptor="6120296" NombreReceptor="TOBIAS,CASTILLO,,ERICK,"><dte:DireccionReceptor><dte:Direccion>.</dte:Direccion><dte:CodigoPostal>00100</dte:CodigoPostal><dte:Municipio> </dte:Municipio><dte:Departamento> </dte:Departamento><dte:Pais>GT</dte:Pais></dte:DireccionReceptor></dte:Receptor><dte:Frases><dte:Frase CodigoEscenario="1" TipoFrase="1" /> <dte:Frase CodigoEscenario="1" TipoFrase="2" /> </dte:Frases><dte:Items><dte:Item BienOServicio="B" NumeroLinea="1"><dte:Cantidad>5.35906</dte:Cantidad><dte:UnidadMedida>6</dte:UnidadMedida><dte:Descripcion>DIESEL LS A-S</dte:Descripcion><dte:PrecioUnitario>26.68938209</dte:PrecioUnitario><dte:Precio>143.03</dte:Precio><dte:Descuento>0</dte:Descuento><dte:Impuestos><dte:Impuesto><dte:NombreCorto>IVA</dte:NombreCorto><dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable><dte:MontoGravable>127.71</dte:MontoGravable><dte:MontoImpuesto>15.32</dte:MontoImpuesto></dte:Impuesto><dte:Impuesto><dte:NombreCorto>PETROLEO</dte:NombreCorto><dte:CodigoUnidadGravable>4</dte:CodigoUnidadGravable><dte:CantidadUnidadesGravables>5.35906</dte:CantidadUnidadesGravables><dte:MontoImpuesto>6.97</dte:MontoImpuesto></dte:Impuesto></dte:Impuestos><dte:Total>150</dte:Total></dte:Item></dte:Items><dte:Totales><dte:TotalImpuestos><dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="15.32" /><dte:TotalImpuesto NombreCorto="PETROLEO" TotalMontoImpuesto="6.97" /> </dte:TotalImpuestos><dte:GranTotal>150</dte:GranTotal></dte:Totales> </dte:DatosEmision><dte:Certificacion><dte:NITCertificador>56407734</dte:NITCertificador><dte:NombreCertificador>AINNOVA, SOCIEDAD ANONIMA</dte:NombreCertificador><dte:NumeroAutorizacion Numero="709640576" Serie="2A572D39">2A572D39-2A4C-4180-8ED8-248BB9C3E061</dte:NumeroAutorizacion><dte:FechaHoraCertificacion>2024-08-14T15:25:52</dte:FechaHoraCertificacion></dte:Certificacion></dte:DTE></dte:SAT><ds:Signature Id="xmldsig-bd21c110-a540-4114-a724-b3ad32624418">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+<ds:Reference Id="xmldsig-bd21c110-a540-4114-a724-b3ad32624418-ref0" URI="#DatosEmision">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>Q7A5bv3qeLuBZFkG/mWThvv+yz+xN59cCDsstF5XhSA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-bd21c110-a540-4114-a724-b3ad32624418-signedprops">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>e1yUwHCZRvKW3szyRK0xOm2aPUqxWRQ+0Q73WzQqufo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-bd21c110-a540-4114-a724-b3ad32624418-sigvalue">
+sLe2p6zSfLJ5nyNjNy7khrYlDYiY4cOM6DlIBmuHY3TKzJN6H+f49BweMCS0dg+2jH40Wn+Dng+s
+wUSrWEHICsSyK/gp6cQ+3QQ+d7qUV+g5hZ1TgXSClyQC22ItJnGzlLjgP3GoEJKEJQ8RGRcJ+5tq
+wb6EKs4q/VTvEXZZEPQxUFZ+1hyr4tF40rcxVz+I8m2j3tyt7ayjjibmGaJDLNgm03ZVdmC29Bor
+mfWnXycSN+3fUhBSvAaox3gcMKmVpsMZxQUIvIdQ0xKOhojFglWeRDL9c8HQf8GtRWVQDBAhoSJ0
+JL1B075ee84mt4L9KCAJWU+UHLIL/FVyegz4/g==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIDXzCCAkegAwIBAgIIN0UbzukBLX4wDQYJKoZIhvcNAQELBQAwODE2MDQGA1UEAwwtU3VwZXJp
+bnRlbmRlbmNpYSBkZSBBZG1pbmlzdHJhY2lvbiBUcmlidXRhcmlhMB4XDTIzMDkxOTIyNDEyMVoX
+DTI1MDkxODIyNDEyMVowJjEPMA0GA1UEAwwGMzIxMDUyMRMwEQYDVQQKDApzYXQuZ29iLmd0MIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxjm6qIBVhOMpTly+BSyBj4YSp+delKWZFkyG
+MYxatetn8FFoyjTSMB3ONk+9AqyGO4CZKOPUpTzEJ302RQw3gr+yJIfODso9MllfEIsn4haSdIgH
+UH4c1iTngRHaZUvmSKD4923rkkiNBt8uj5L18Dx+vcd7pr2xwUkkIrnCV+rq+O4WP6GEorcJPP8J
+pVXl9RM+MSaCJ01SwCANsKQ4kz1zrRQMEjvWBUPSyzvV+Qb1c2e2VMuPS0USDnA3VuM73D52U4wV
+xd1BT5SJ3ccitdNMa1ikduB/BKd1AzRgTfI+Q6CPIn3fYfz0434zFR3JerOzPGRsfKaLBMyZKysr
+lwIDAQABo38wfTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFFiCdo1YKLHJQwQCtNXIXmov//hK
+MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDAdBgNVHQ4EFgQU46jPAGQRXj8IWDdJu6Hd
+1S9U/4kwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4IBAQAuGjfKDIDKCCklIyZhi0YV
+iX2iE4TBCl6t3+nk3/53TerPXVpJHVcCiLmPqQFrANBPs6WuxydSn79GyDJrFUhl2A5PuFfiUuwu
+df5x6qJyuKOOsEErnIBXUWne/zQYFCBRKos85YUxUUpPFsvhmBM+/Aj1GjAp9V3PjL+PzFdHblPB
+T3LOoLluuO59lD/xZ5qOCMPm9a3nxoIrCNNXkqWuzlQej7rChbXBmUJAd4DtqSs2tBJSwC1dNpK2
+l7qSuCuZ57LvdPeEwYYaj8iiXnAUFe97Y8urxR5nfHFNU0ZBDo6M2/rTOTNqJ52ke0WA0Yaqours
+wg2ccBGNgw7sg6s6
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-bd21c110-a540-4114-a724-b3ad32624418"><xades:SignedProperties Id="xmldsig-bd21c110-a540-4114-a724-b3ad32624418-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2024-08-14T15:25:52.243-06:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>czibEHtbp4WicROkXR1pFRpxCOFZlaHCQg1pFIFSSwI=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Superintendencia de Administracion Tributaria</ds:X509IssuerName><ds:X509SerialNumber>3982620020965453182</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature><ds:Signature Id="xmldsig-48cd5c28-93c9-4e83-9eb7-f68da81a72a0">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+<ds:Reference Id="xmldsig-48cd5c28-93c9-4e83-9eb7-f68da81a72a0-ref0" URI="#DatosCertificados">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>xjuHSduEPUJuQ0KASJlI4R8MiwA2/lPXQNEuxS0lVVc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-48cd5c28-93c9-4e83-9eb7-f68da81a72a0-signedprops">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>STSBa++nkb5CYzFTsSYedF7Y49CEPZBwxz+EWMfZnDs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-48cd5c28-93c9-4e83-9eb7-f68da81a72a0-sigvalue">
+G5k0PP9SbANTo4vMKOmgu1XY6Qa7FftEH7/440zoMrs4RqrN6DzgQ2LNz6ozI7AGdqyQ5Co4udxp
+5+RRoDQUvvHZ6zfHSbQExpsA2OlclSsFhRNCnX6Y7X3+L7TA3LTNaIWe0zhtqkgXBSp2Ciu2IhoY
+cVK0I0aW1djUhNf16nGuZQmhuDsKXhGCRo1oU/RuQOo5XRowRi/P85Wt631/AYzGIYziVr/le/ZH
+vkhTUuAknAK92wf4Qb6N+hY+Lw5jhIFMTVwYG/bat29vmbK60agF1uByytJ7Ow3KecL7T/CvMNQU
+Xp88jLY+eLIp2SFQrybmj1jJ+jPmfDPY5E2mug==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJyDCCB7CgAwIBAgIIcw6AX60Fws4wDQYJKoZIhvcNAQELBQAwgcAxFjAUBgNVBGEMDVZBVEdU
+LTM1MTU5LTgxLTArBgNVBAMMJENhbWFyYSBkZSBDb21lcmNpbyBkZSBHdWF0ZW1hbGEgQ0EgMTEs
+MCoGA1UECwwjUFNDLUNhbWFyYSBkZSBDb21lcmNpbyBkZSBHdWF0ZW1hbGExKDAmBgNVBAoMH0Nh
+bWFyYSBkZSBDb21lcmNpbyBkZSBHdWF0ZW1hbGExEjAQBgNVBAcMCUd1YXRlbWFsYTELMAkGA1UE
+BhMCR1QwHhcNMjQwNTAzMTgzMjAwWhcNMjUwNTAzMTgzMjAwWjCByzFMMEoGA1UECQxDVsOtYSA1
+IDUtMzQgWm9uYSA0IENlbnRybyBGaW5hbmNpZXJvIEJsIFRvcnJlIGxsbCBOaXZlbCA1IE9maWNp
+bmEgMjEWMBQGA1UEAwwNQUlOTk9WQSwgUy5BLjERMA8GA1UEBRMINTY0MDc3MzQxFjAUBgNVBAoM
+DUFJTk5PVkEsIFMuQS4xEjAQBgNVBAcMCUdVQVRFTUFMQTELMAkGA1UEBhMCR1QxFzAVBgNVBGEM
+DlZBVEdULTU2NDA3NzM0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoOgXhJprY5kO
+i+wOh9WdS4fsGH5n6jydqKsBQNtuVAW/XXsPeVE3rMKliLNxctojSAxyaLKRdgc/+Ma59UJFrk4H
+QCAfBVXWlnQAtXjzrKYj96awJCuNY/lBxvC9dyD2oAju8n/X630zuRpJ91b+nTwPhTFBm43XZ+4a
+gcCeUupYEcLdWdkgjws1kEYdpMtdIxtXtoESBWrZ4h3RewOz4SEcFUhiTrxrHL97KveDXLBNebHp
+ghZh+ETqgHmSkcnw3qK/vr+UFiKd2HT2W3XrANssZYbTKPkpXlHex7rKNhZCurC20jzQodctOkDR
+VSsfq/srLaz6bey1tck41BoeowIDAQABo4IEtzCCBLMwgcsGCCsGAQUFBwEBBIG+MIG7MEkGCCsG
+AQUFBzAChj1odHRwOi8vd3d3LmZpcm1hLWUuY29tLmd0L2NlcnRpZmljYWRvcy9hY19zdWJvcmRp
+bmFkYV9jY2cuY2VyMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9vY3NwLzAdBgNVHQ4EFgQUi3tSD49FHa66oDss/z9c9SNYYjAwDAYDVR0TAQH/BAIwADAf
+BgNVHSMEGDAWgBQHMhJaOy8SRoNWMa2G5dNCFi3AmzAWBgNVHRIEDzANgQtpbmZvQGNjZy5ndDCC
+AqwGA1UdIASCAqMwggKfMIICkQYKKwYBBAGBtWMBBjCCAoEwKwYIKwYBBQUHAgEWH2h0dHBzOi8v
+ZmlybWEtZS5jb20uZ3QvanVyaWRpY28wggFGBggrBgEFBQcCAjCCATgeggE0AEMAZQByAHQAaQBm
+AGkAYwBhAGQAbwAgAEQAaQBnAGkAdABhAGwAIABkAGUAIABQAGUAcgBzAG8AbgBhACAASgB1AHIA
+7QBkAGkAYwBhACAAZQBtAGkAdABpAGQAbwAgAHAAbwByACAAQwDhAG0AYQByAGEAIABkAGUAIABD
+AG8AbQBlAHIAYwBpAG8AIABkAGUAIABHAHUAYQB0AGUAbQBhAGwAYQAsACAATgBJAFQAIAAzADUA
+MQA1ADkALQA4ACwAIABpAG4AZgBvAEAAYwBjAGcALgBnAHQALAAgAHUAYgBpAGMAYQBkAG8AIABl
+AG4AIAAxADAAIABDAGEAbABsAGUAIAAzAC0AOAAwACAAWgBvAG4AYQAgADEALAAgAEcAdQBhAHQA
+ZQBtAGEAbABhAC4wggEGBggrBgEFBQcCAjCB+R6B9gBBAHUAdABvAHIAaQB6AGEAZABvACAAcwBl
+AGcA+gBuACAAcgBlAHMAbwBsAHUAYwBpAPMAbgAgAGQAZQAgADIAMwAuADAAMQAuADIAMAAxADIA
+LAAgAE4AbwAuACAAUABTAEMALQAwADEALQAyADAAMQAyACAAZABlAGwAIABSAFAAUwBDACAAZABl
+AGwAIABNAGkAbgBpAHMAdABlAHIAaQBvACAAZABlACAARQBjAG8AbgBvAG0A7QBhACAAZABlACAA
+bABhACAAUgBlAHAA+gBiAGwAaQBjAGEAIABkAGUAIABHAHUAYQB0AGUAbQBhAGwAYTAIBgYEAI96
+AQIweQYDVR0fBHIwcDA2oDSgMoYwaHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kv
+Y3JsL0NDR1QuY3JsMDagNKAyhjBodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9j
+cmwvQ0NHVC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDAjBgNVHREEHDAagRhmZ29uemFsZXpAYWlubm92YS5jb20uZ3QwDQYJKoZIhvcNAQELBQADggIB
+AK6PT8EM4wTgUdl6VyIRxcKXsstHaRiQYcx+pv49lNJwsIivUNrQfYfhmq08YdISlEqPLRJQwWZ3
+a7T320Hs22EqIxjwXztyh0NO/Pay2Rd1YGap7keMWElFMF+voKnruaUTvGoaMKAjQBQ/vCztKC0J
+0h9GVNW72VanEtNpab86cK5DcNlF7/rYlfMOf0+Q8BtDB01JYdlfCY9CIXRa2lSVHrThLGyG7r1E
+PDpyVp+wUR5IaYBJBmv4mLCyvimlIEYcDBJWlCWsToW/K5zTSgSdjzDtua9iAA1hNgh5oXsxq+5Q
+umj5cYvO4mSM7lXD16ufYzG2bJanlyfy6lK4oW45Hn7L9cH+tNem58oMQJ+lnBcFEeddUKryfdz0
+N1vOCZTwmTYFZfUl0bluiFOaUxli+NqUQ5zG499288KH0YXx5nBv3WWUvAG3YBr5qDUvpltwv2SJ
+0kytibf9w0K4LSLP2NcX+bPB+9dN3UmyUntEdjc293TjRkxMfiBQX8k2oRHU4xOXvvz7xmkcGhDY
+g7hAqR8Kd9AipXahDxA2TTYVs5H/dToVibJFNV6NRueQptZoSO0CZ5U0jAn1BIElATPl6hKh/b28
+UceIH7mN7jxTscXmc41XU0gXKMZ7SxDcFqOIhvgntMFgwTHqLEEL5DeNS7UscnFjwU7FMH9KQcjk
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-48cd5c28-93c9-4e83-9eb7-f68da81a72a0"><xades:SignedProperties Id="xmldsig-48cd5c28-93c9-4e83-9eb7-f68da81a72a0-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2024-08-14T15:25:52.288-06:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>+HhjhtBInZ0N4RJ94bqVV3MFJ2XZqtOguQuNt2++wRw=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>C=GT,L=Guatemala,O=Camara de Comercio de Guatemala,OU=PSC-Camara de Comercio de Guatemala,CN=Camara de Comercio de Guatemala CA 1,2.5.4.97=#0c0d56415447542d33353135392d38</ds:X509IssuerName><ds:X509SerialNumber>8290705112448746190</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></dte:GTDocumento>
